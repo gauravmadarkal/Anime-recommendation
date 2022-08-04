@@ -1,6 +1,4 @@
-# Anime-recommendation
-# Project title 
-## Anime recommendation System
+# Anime recommendation System
 # Team members 
   - Adithiyya Kishoore
   - Bhargav Shandilya
