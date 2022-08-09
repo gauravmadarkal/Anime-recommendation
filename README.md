@@ -31,6 +31,10 @@ rating of the show by the users
 # Application of this knowledge 
 With these results in hand, it is now possible for an anime creator to create an anime that might be well suited to get the best rating based on the number of episodes and genre of the anime. As we now know which anime's get the best ratings based on our linear regression model, we could tailor the number of episodes of animes of a particular genre. For example, in our model we predicted that most `shounen' anime benefit from having about 275+ episodes episodes. We see that beyond the 275 episode mark, the rating for these genre of anime, shoot up from a plateau.
 
+Also, we could predict things the other way round. What genre of anime would a studio, say Toei Animation or Studio Ghibli, want to producing a series on a small scale for a great rating? Our model would be well suited to do just that. This would be an interesting application for the anime.
+
+Let us suppose an anime has already been created and set for running. Based on the initial reception of the anime, we could get a good idea of how it would fare in the long run. But, to predict the popularity of the anime, in case we need to create merchandise for it, we would be in a much better position by relying on a robust model. While it might not be the only decider, it would be a great supplement to user surveys that are generally done. Thus, our logistic regression model would be applied here.
+
 # Link to the video demonstration 
 https://drive.google.com/file/d/1Os7wvmcHfO8dI97xcZTno-RHJxWN80h_/view?usp=sharing
 
