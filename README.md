@@ -29,9 +29,9 @@ rating of the show by the users
  - If a user enjoys anime 1 and anime 2, how likely are they to enjoy anime 3? (Recommendation system)
 
 # Application of this knowledge 
-
+With these results in hand, it is now possible for an anime creator to create an anime that might be well suited to get the best rating based on the number of episodes and genre of the anime. As we now know which anime's get the best ratings based on our linear regression model, we could tailor the number of episodes of animes of a particular genre. For example, in our model we predicted that most `shounen' anime benefit from having about 275+ episodes episodes. We see that beyond the 275 episode mark, the rating for these genre of anime, shoot up from a plateau.
 
 # Link to the video demonstration 
-
+https://drive.google.com/file/d/1Os7wvmcHfO8dI97xcZTno-RHJxWN80h_/view?usp=sharing
 
 # Link to your final project paper
