@@ -39,3 +39,4 @@ Let us suppose an anime has already been created and set for running. Based on t
 https://drive.google.com/file/d/1Os7wvmcHfO8dI97xcZTno-RHJxWN80h_/view?usp=sharing
 
 # Link to your final project paper
+https://drive.google.com/file/d/1bCh97rwPtNSgxeosnMf-soXwi6lhQRRF/view?usp=sharing
